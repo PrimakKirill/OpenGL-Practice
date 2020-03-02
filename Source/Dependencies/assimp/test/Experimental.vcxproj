@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D5F0AAA1-3A0C-3A04-A943-EA168BF7E0C0}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>Experimental</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\.;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\include;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\include;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\contrib\zlib;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\contrib\zlib;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\..\contrib\gtest\include;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\..\contrib\gtest;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\code;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\.;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\include;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\include;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\contrib\zlib;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\contrib\zlib;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\..\contrib\gtest\include;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\..\contrib\gtest;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\code;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\.;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\include;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\include;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\contrib\zlib;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\contrib\zlib;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\..\contrib\gtest\include;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\..\contrib\gtest;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\code;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\.;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\include;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\include;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\contrib\zlib;C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\contrib\zlib;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\..\contrib\gtest\include;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\..\contrib\gtest;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\code;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\15256a71526f14e088c678d247338657\Experimental.rule">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\ctest.exe" -C $(Configuration) -D Experimental
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/15256a71526f14e088c678d247338657/Experimental.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\Experimental</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\ctest.exe" -C $(Configuration) -D Experimental
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/15256a71526f14e088c678d247338657/Experimental.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\Experimental</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\ctest.exe" -C $(Configuration) -D Experimental
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/15256a71526f14e088c678d247338657/Experimental.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\Experimental</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'"></Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\ctest.exe" -C $(Configuration) -D Experimental
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/15256a71526f14e088c678d247338657/Experimental.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\Experimental</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -HC:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0 -BC:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp --check-stamp-file C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/test/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/test/CMakeLists.txt;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.11\Modules\CTest.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\CTestUseLaunchers.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\CTestTargets.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\DartConfiguration.tcl.in;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -HC:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0 -BC:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp --check-stamp-file C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/test/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/test/CMakeLists.txt;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.11\Modules\CTest.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\CTestUseLaunchers.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\CTestTargets.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\DartConfiguration.tcl.in;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -HC:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0 -BC:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp --check-stamp-file C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/test/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/test/CMakeLists.txt;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.11\Modules\CTest.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\CTestUseLaunchers.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\CTestTargets.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\DartConfiguration.tcl.in;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/test/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -HC:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0 -BC:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp --check-stamp-file C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/test/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/test/CMakeLists.txt;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt;C:\Program Files\CMake\share\cmake-3.11\Modules\CTest.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\CTestUseLaunchers.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\CTestTargets.cmake;C:\Program Files\CMake\share\cmake-3.11\Modules\DartConfiguration.tcl.in;C:\Users\10\Desktop\GameMakeFiles\assimp-4.1.0\test\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\test\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\ZERO_CHECK.vcxproj">
+      <Project>{2EEFA2A8-DB07-3662-950B-A39B7004516C}</Project>
+      <Name>ZERO_CHECK</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

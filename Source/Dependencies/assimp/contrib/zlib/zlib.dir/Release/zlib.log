@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/contrib/zlib/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/contrib/zlib/CMakeFiles/generate.stamp is up-to-date.
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  inflate.c
+  infback.c
+  inftrees.c
+  inffast.c
+  trees.c
+  uncompr.c
+  zutil.c
+     Создается библиотека C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/contrib/zlib/Release/zlib.lib и объект C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/contrib/zlib/Release/zlib.exp
+  zlib.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\contrib\zlib\Release\zlib.dll

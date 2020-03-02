@@ -1,0 +1,9 @@
+﻿  Building Custom Rule C:/Users/10/Desktop/GameMakeFiles/assimp-4.1.0/tools/assimp_cmd/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/tools/assimp_cmd/CMakeFiles/generate.stamp is up-to-date.
+  CompareDump.cpp
+  ImageExtractor.cpp
+  Main.cpp
+  WriteDumb.cpp
+  Info.cpp
+  Export.cpp
+  assimp_cmd.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\tools\assimp_cmd\Release\assimp.exe

@@ -1,0 +1,453 @@
+The system is: Windows - 10.0.18362 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine ���ᨨ 15.9.21+g9802d43bc3 ��� .NET Framework
+(C) ��௮��� �������� (Microsoft Corporation). �� �ࠢ� ���饭�.
+
+���ઠ ���� 18.11.2019 19:39:10.
+�஥�� "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\3.11.4\CompilerIdC\CompilerIdC.vcxproj" � 㧫� 1 (楫��� ��ꥪ�� �� 㬮�砭��).
+PrepareForBuild:
+  �������� ��⠫��� "Debug\".
+  �������� ��⠫��� "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  �������� "Debug\CompilerIdC.tlog\unsuccessfulbuild", ⠪ ��� �뫮 ������ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\3.11.4\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  ���� "Debug\CompilerIdC.tlog\unsuccessfulbuild" 㤠�����.
+  ���饭�� � "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+���ઠ �஥�� "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\3.11.4\CompilerIdC\CompilerIdC.vcxproj" �����襭� (楫��� ��ꥪ�� �� 㬮�砭��).
+
+���ઠ �ᯥ譮 �����襭�.
+    �।�०�����: 0
+    �訡��: 0
+
+��諮 �६��� 00:00:02.53
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/3.11.4/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) Build Engine ���ᨨ 15.9.21+g9802d43bc3 ��� .NET Framework
+(C) ��௮��� �������� (Microsoft Corporation). �� �ࠢ� ���饭�.
+
+���ઠ ���� 18.11.2019 19:39:14.
+�஥�� "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\3.11.4\CompilerIdCXX\CompilerIdCXX.vcxproj" � 㧫� 1 (楫��� ��ꥪ�� �� 㬮�砭��).
+PrepareForBuild:
+  �������� ��⠫��� "Debug\".
+  �������� ��⠫��� "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  �������� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild", ⠪ ��� �뫮 ������ "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\3.11.4\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  ���� "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" 㤠�����.
+  ���饭�� � "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+���ઠ �஥�� "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\3.11.4\CompilerIdCXX\CompilerIdCXX.vcxproj" �����襭� (楫��� ��ꥪ�� �� 㬮�砭��).
+
+���ઠ �ᯥ譮 �����襭�.
+    �।�०�����: 0
+    �訡��: 0
+
+��諮 �६��� 00:00:01.85
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/3.11.4/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_b8d82.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:16.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_b8d82.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_b8d82.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_b8d82.dir\Debug\cmTC_b8d82.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_b8d82.dir\Debug\cmTC_b8d82.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b8d82.dir\Debug\\" /Fd"cmTC_b8d82.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\testCCompiler.c
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b8d82.dir\Debug\\" /Fd"cmTC_b8d82.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\testCCompiler.c
+  testCCompiler.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_b8d82.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_b8d82.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_b8d82.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_b8d82.dir\Debug\testCCompiler.obj
+  cmTC_b8d82.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_b8d82.exe
+FinalizeBuildStatus:
+  ” ©« "cmTC_b8d82.dir\Debug\cmTC_b8d82.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "cmTC_b8d82.dir\Debug\cmTC_b8d82.tlog\cmTC_b8d82.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_b8d82.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.86
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_f795b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:19.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_f795b.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_f795b.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_f795b.dir\Debug\cmTC_f795b.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_f795b.dir\Debug\cmTC_f795b.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f795b.dir\Debug\\" /Fd"cmTC_f795b.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.11\Modules\CMakeCCompilerABI.c"
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f795b.dir\Debug\\" /Fd"cmTC_f795b.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.11\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_f795b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_f795b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_f795b.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_f795b.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_f795b.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_f795b.exe
+FinalizeBuildStatus:
+  ” ©« "cmTC_f795b.dir\Debug\cmTC_f795b.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "cmTC_f795b.dir\Debug\cmTC_f795b.tlog\cmTC_f795b.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_f795b.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.81
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_935cb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:21.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_935cb.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_935cb.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_935cb.dir\Debug\cmTC_935cb.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_935cb.dir\Debug\cmTC_935cb.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_935cb.dir\Debug\\" /Fd"cmTC_935cb.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_935cb.dir\Debug\\" /Fd"cmTC_935cb.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  testCXXCompiler.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_935cb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_935cb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_935cb.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_935cb.dir\Debug\testCXXCompiler.obj
+  cmTC_935cb.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_935cb.exe
+FinalizeBuildStatus:
+  ” ©« "cmTC_935cb.dir\Debug\cmTC_935cb.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "cmTC_935cb.dir\Debug\cmTC_935cb.tlog\cmTC_935cb.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_935cb.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.73
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_0390c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:24.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_0390c.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_0390c.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_0390c.dir\Debug\cmTC_0390c.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_0390c.dir\Debug\cmTC_0390c.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_0390c.dir\Debug\\" /Fd"cmTC_0390c.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.11\Modules\CMakeCXXCompilerABI.cpp"
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_0390c.dir\Debug\\" /Fd"cmTC_0390c.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.11\Modules\CMakeCXXCompilerABI.cpp"
+  CMakeCXXCompilerABI.cpp
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_0390c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_0390c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_0390c.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_0390c.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_0390c.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_0390c.exe
+FinalizeBuildStatus:
+  ” ©« "cmTC_0390c.dir\Debug\cmTC_0390c.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "cmTC_0390c.dir\Debug\cmTC_0390c.tlog\cmTC_0390c.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_0390c.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.85
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_1dd7c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:26.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_1dd7c.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_1dd7c.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_1dd7c.dir\Debug\cmTC_1dd7c.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_1dd7c.dir\Debug\cmTC_1dd7c.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1dd7c.dir\Debug\\" /Fd"cmTC_1dd7c.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\feature_tests.cxx
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_1dd7c.dir\Debug\\" /Fd"cmTC_1dd7c.dir\Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\feature_tests.cxx
+  feature_tests.cxx
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_1dd7c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_1dd7c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_1dd7c.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_1dd7c.dir\Debug\feature_tests.obj
+  cmTC_1dd7c.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_1dd7c.exe
+FinalizeBuildStatus:
+  ” ©« "cmTC_1dd7c.dir\Debug\cmTC_1dd7c.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "cmTC_1dd7c.dir\Debug\cmTC_1dd7c.tlog\cmTC_1dd7c.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_1dd7c.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.97
+
+
+    Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variable_templates
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_811b7.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:31.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_811b7.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_811b7.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_811b7.dir\Debug\cmTC_811b7.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_811b7.dir\Debug\cmTC_811b7.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_811b7.dir\Debug\\" /Fd"cmTC_811b7.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_811b7.dir\Debug\\" /Fd"cmTC_811b7.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_811b7.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_811b7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_811b7.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_811b7.dir\Debug\CheckIncludeFile.obj
+  cmTC_811b7.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_811b7.exe
+FinalizeBuildStatus:
+  ” ©« "cmTC_811b7.dir\Debug\cmTC_811b7.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "cmTC_811b7.dir\Debug\cmTC_811b7.tlog\cmTC_811b7.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_811b7.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:02.26
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_ce640.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:34.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ce640.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_ce640.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_ce640.dir\Debug\cmTC_ce640.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_ce640.dir\Debug\cmTC_ce640.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ce640.dir\Debug\\" /Fd"cmTC_ce640.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ce640.dir\Debug\\" /Fd"cmTC_ce640.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_ce640.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_ce640.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_ce640.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_ce640.dir\Debug\CheckIncludeFile.obj
+  cmTC_ce640.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_ce640.exe
+FinalizeBuildStatus:
+  ” ©« "cmTC_ce640.dir\Debug\cmTC_ce640.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "cmTC_ce640.dir\Debug\cmTC_ce640.tlog\cmTC_ce640.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ce640.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.54
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_bb76c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:36.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_bb76c.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_bb76c.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_bb76c.dir\Debug\cmTC_bb76c.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_bb76c.dir\Debug\cmTC_bb76c.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bb76c.dir\Debug\\" /Fd"cmTC_bb76c.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bb76c.dir\Debug\\" /Fd"cmTC_bb76c.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_bb76c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_bb76c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_bb76c.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_bb76c.dir\Debug\CheckIncludeFile.obj
+  cmTC_bb76c.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_bb76c.exe
+FinalizeBuildStatus:
+  ” ©« "cmTC_bb76c.dir\Debug\cmTC_bb76c.tlog\unsuccessfulbuild" г¤ «пҐвбп.
+  ЋЎа йҐ­ЁҐ Є "cmTC_bb76c.dir\Debug\cmTC_bb76c.tlog\cmTC_bb76c.lastbuildstate".
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_bb76c.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+
+‘Ў®аЄ  гбЇҐи­® § ўҐаиҐ­ .
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 0
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.75
+
+

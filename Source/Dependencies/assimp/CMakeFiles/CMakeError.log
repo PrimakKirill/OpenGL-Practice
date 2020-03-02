@@ -1,0 +1,174 @@
+Determining size of off64_t failed with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_5ab65.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:38.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_5ab65.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_5ab65.dir\Debug\cmTC_5ab65.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_5ab65.dir\Debug\cmTC_5ab65.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _LARGEFILE64_SOURCE=1 /D HAVE_SYS_TYPES_H /D HAVE_STDINT_H /D HAVE_STDDEF_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ab65.dir\Debug\\" /Fd"cmTC_5ab65.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CheckTypeSize\OFF64_T.c
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _LARGEFILE64_SOURCE=1 /D HAVE_SYS_TYPES_H /D HAVE_STDINT_H /D HAVE_STDDEF_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ab65.dir\Debug\\" /Fd"cmTC_5ab65.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CheckTypeSize\OFF64_T.c
+  OFF64_T.c
+  
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(25): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(26): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(27): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(28): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(29): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+
+ЋиЁЎЄ  бЎ®аЄЁ.
+
+"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+(ClCompile Є®­Ґз­л© ®ЎкҐЄв) -> 
+  c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(25): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+  c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(26): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+  c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(27): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+  c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(28): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+  c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\checktypesize\off64_t.c(29): error C2065: off64_t: ­Ґ®Ўкпў«Ґ­­л© Ё¤Ґ­вЁдЁЄ в®а [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_5ab65.vcxproj]
+
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 5
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.93
+
+C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CheckTypeSize/OFF64_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(off64_t))
+char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the function fseeko exists failed with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_ca69d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:39.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ca69d.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_ca69d.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_ca69d.dir\Debug\cmTC_ca69d.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_ca69d.dir\Debug\cmTC_ca69d.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ca69d.dir\Debug\\" /Fd"cmTC_ca69d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.11\Modules\CheckFunctionExists.c"
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ca69d.dir\Debug\\" /Fd"cmTC_ca69d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.11\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_ca69d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_ca69d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp/Debug/cmTC_ca69d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_ca69d.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ _fseeko в функции _main [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ca69d.vcxproj]
+C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_ca69d.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ca69d.vcxproj]
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ca69d.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+
+ЋиЁЎЄ  бЎ®аЄЁ.
+
+"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ca69d.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+(Link Є®­Ґз­л© ®ЎкҐЄв) -> 
+  CheckFunctionExists.obj : error LNK2019: ссылка на неразрешенный внешний символ _fseeko в функции _main [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ca69d.vcxproj]
+  C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\cmTC_ca69d.exe : fatal error LNK1120: неразрешенных внешних элементов: 1 [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_ca69d.vcxproj]
+
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 2
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:01.24
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/10/Desktop/GameMakeFiles/MyFirst3DGame/Dependencies/assimp/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_6945d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=15.0"
+Microsoft (R) Build Engine ўҐабЁЁ 15.9.21+g9802d43bc3 ¤«п .NET Framework
+(C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation). ‚бҐ Їа ў  § йЁйҐ­л.
+
+‘Ў®аЄ  ­ з в  18.11.2019 19:39:41.
+Џа®ҐЄв "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_6945d.vcxproj" ў г§«Ґ 1 (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо).
+PrepareForBuild:
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_6945d.dir\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\Debug\".
+  ‘®§¤ ­ЁҐ Є в «®Ј  "cmTC_6945d.dir\Debug\cmTC_6945d.tlog\".
+InitializeBuildStatus:
+  ‘®§¤ ­ЁҐ "cmTC_6945d.dir\Debug\cmTC_6945d.tlog\unsuccessfulbuild", в Є Є Є Ўл«® § ¤ ­® "AlwaysCreate".
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6945d.dir\Debug\\" /Fd"cmTC_6945d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  ЋЇвЁ¬Ё§ЁагойЁ© Є®¬ЇЁ«пв®а Microsoft (R) C/C++ ўҐабЁЁ 19.16.27027.1 ¤«п x86
+  (C) Љ®аЇ®а жЁп Њ ©Єа®б®дв (Microsoft Corporation).  ‚бҐ Їа ў  § йЁйҐ­л.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6945d.dir\Debug\\" /Fd"cmTC_6945d.dir\Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\CheckIncludeFile.c
+  CheckIncludeFile.c
+  
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: unistd.h: No such file or directory, [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_6945d.vcxproj]
+‘Ў®аЄ  Їа®ҐЄв  "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_6945d.vcxproj" § ўҐаиҐ­  (жҐ«ҐўлҐ ®ЎкҐЄвл Ї® г¬®«з ­Ёо) б ®иЁЎЄ®©.
+
+ЋиЁЎЄ  бЎ®аЄЁ.
+
+"C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_6945d.vcxproj" (жҐ«Ґў®© ®ЎкҐЄв Ї® г¬®«з ­Ёо) (1) ->
+(ClCompile Є®­Ґз­л© ®ЎкҐЄв) -> 
+  c:\users\10\desktop\gamemakefiles\myfirst3dgame\dependencies\assimp\cmakefiles\cmaketmp\checkincludefile.c(1): fatal error C1083: ЌҐ г¤ Ґвбп ®вЄалвм д ©« ўЄ«озҐ­ЁҐ: unistd.h: No such file or directory, [C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Dependencies\assimp\CMakeFiles\CMakeTmp\cmTC_6945d.vcxproj]
+
+    ЏаҐ¤гЇаҐ¦¤Ґ­Ё©: 0
+    ЋиЁЎ®Є: 1
+
+Џа®и«® ўаҐ¬Ґ­Ё 00:00:00.87
+
+

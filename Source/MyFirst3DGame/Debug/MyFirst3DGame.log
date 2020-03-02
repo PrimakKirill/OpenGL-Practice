@@ -1,0 +1,80 @@
+﻿  Camera.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\camera.cpp(24): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\camera.cpp(25): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\camera.cpp(37): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\camera.cpp(38): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\camera.cpp(42): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\camera.cpp(43): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\camera.cpp(44): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\camera.cpp(45): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+  Enemy.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\enemy.cpp(14): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\enemy.cpp(15): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\enemy.cpp(28): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+  main.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\main.cpp(145): warning C4305: аргумент: усечение из "double" в "const float"
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\main.cpp(160): warning C4305: аргумент: усечение из "double" в "const float"
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\main.cpp(205): warning C4305: +=: усечение из "double" в "float"
+  Mesh.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\mesh.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\mesh.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+  AObject.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\aobject.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+  Box.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(38): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(9): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(27): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(34): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(35): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(36): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\box\box.cpp(37): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Model.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\models\model.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\obgects\models\model.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+  Player.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\player.cpp(18): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\player.cpp(19): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+  World.cpp
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(50): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(129): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(138): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(142): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(174): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(191): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(200): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(204): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(217): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\10\desktop\gamemakefiles\myfirst3dgame\myfirst3dgame\world.cpp(222): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+LINK : warning LNK4098: сшсышюЄхър яю єьюыўрэш■ "MSVCRT" яЁюЄштюЁхўшЄ шёяюы№чютрэш■ фЁєушї сшсышюЄхъ; шёяюы№чєщЄх ярЁрьхЄЁ /NODEFAULTLIB:library
+LINK : warning LNK4098: сшсышюЄхър яю єьюыўрэш■ "LIBCMT" яЁюЄштюЁхўшЄ шёяюы№чютрэш■ фЁєушї сшсышюЄхъ; шёяюы№чєщЄх ярЁрьхЄЁ /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: "vc120.pdb" PDB эх эрщфхэ ё "glew32s.lib(glew.obj)" шыш эр "C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Debug\vc120.pdb"; ъюьяюэютър юс·хъЄр т√яюыэ хЄё  ъръ яЁш юЄёєЄёЄтшш юЄырфюўэ√ї фрээ√ї
+  MyFirst3DGame.vcxproj -> C:\Users\10\Desktop\GameMakeFiles\MyFirst3DGame\Debug\MyFirst3DGame.exe
